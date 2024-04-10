@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "659529078977",
+    "project_id": "bookreview-app-sample",
+    "storage_bucket": "bookreview-app-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659529078977:android:445ae7bd24f500258cdc40",
+        "android_client_info": {
+          "package_name": "com.sudarlife.bookreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659529078977-bq6pevtrf1if9qq7oo8r4esqb9mugo4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudarlife.bookreview",
+            "certificate_hash": "69b2e9aab892c63dcd48dea5f08f4ee65a2efbb0"
+          }
+        },
+        {
+          "client_id": "659529078977-pu7iaq6b4lffitkeu7qmu0f8f1472v24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsDRgGoyMjLUDZd5qakzx1DhcDKyublSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659529078977-5o8ejrbbu2v8arnffnj9qidhbe8tevna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659529078977-9u77389lbv9ghim32lf0d0kht2qhc4o6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sudarlife.bookreview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
